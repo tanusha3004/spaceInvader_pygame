@@ -4,7 +4,7 @@ import random
 import math
 from pygame import mixer
 import os
-os.environ["SDL_VIDEODRIVER"] = "dummy"
+# os.environ["SDL_VIDEODRIVER"] = "dummy"
 
 # Initialize the pygame module
 pygame.init()
